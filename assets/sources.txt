@@ -1,0 +1,27 @@
+flame.png
+Source: http://opengameart.org/content/homemade-flame
+License: http://creativecommons.org/licenses/by/3.0/
+
+planet.png
+Source: http://en.wikipedia.org/wiki/File:Kepler10b_artist.jpg
+License: Public Domain
+
+rock.png
+Source: http://opengameart.org/content/rocks
+License: http://creativecommons.org/publicdomain/zero/1.0/
+
+ship.png
+Source: http://opengameart.org/content/fighter-spaceship
+License: http://creativecommons.org/licenses/by/3.0/
+
+stars.jpg
+Source: http://en.wikipedia.org/wiki/File:Pleiades_large.jpg
+License: Public Domain
+
+explosion.mp3
+Source: http://www.freesound.org/people/Nbs%20Dark/sounds/94185/
+License: http://creativecommons.org/publicdomain/zero/1.0/
+
+teleportation.mp3
+Source: http://www.freesound.org/people/Quonux/sounds/166418/
+License: http://creativecommons.org/licenses/by/3.0/
